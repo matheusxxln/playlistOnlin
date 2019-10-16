@@ -1,0 +1,81 @@
+		body{
+			background-image:url("star.jpg");
+		}
+		*{
+			text-align: center;
+		}
+input[type=text] {
+  width: 20%;
+  padding: 12px 5px;
+  margin: 10px 5px;
+  box-sizing: border-box;
+  border: none;
+  background-color: #FFF8DC;
+  border: 3px solid #000000;
+  color: black;
+
+}
+input[type=email]{
+width: 40%;
+  padding: 12px 5px;
+  margin: 10px 5px;
+  box-sizing: border-box;
+  border: none;
+  background-color: #FFF8DC;
+  border: 3px solid #000000;
+  
+}
+input[type=date]{
+	width:21%;
+	padding: 12px 5px;
+	margin: 10px 5px;
+	box-sizing: border-box;
+	background-color: #FFF8DC;
+	border: 3px solid #000000;
+	color:black;
+
+}
+input[type=senha]{
+	width: 40%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	box-sizing: border-box;
+	background-color: #FFF8DC;
+	border: 3px  solid #000000;
+
+
+}
+input[name=CONFIRMAR]{
+	width: 22%;
+}
+input[type=submit]{
+	width: 10%;
+	padding: 5px 10px;
+	margin:8px 0px;
+	border:3px solid #000000;
+	position: absolute;
+	top:450px;
+	right: 700px;
+	background-color:#000000;
+	color:white;
+}
+
+input[type=reset]{
+	width: 10%;
+	padding: 5px 10px;
+	margin:8px 0px;
+	border:3px solid #000000;
+	position: absolute;
+	top:450px;
+	right: 500px;
+	background-color:#000000;
+	color:white;
+}
+h1,h3,b,label{
+	color:white;
+}
+
+
+}
+
+	</style>
